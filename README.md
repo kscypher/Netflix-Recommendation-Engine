@@ -1,4 +1,6 @@
-# Netflix-Recommendation-Engine# Netflix Recommendation Engine using TF-IDF and SVD
+# Netflix-Recommendation-Engine# 
+
+Netflix Recommendation Engine using TF-IDF and SVD
 
 A **Netflix-style movie recommendation system** that combines **Content-Based Filtering**, **Collaborative Filtering**, and a **Hybrid Approach** using **TF-IDF** and **Matrix Factorization (SVD)**.
 
